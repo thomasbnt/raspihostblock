@@ -1,5 +1,5 @@
-localhost ls.dtrace.nvidia.com
-localhost events.gfe.nvidia.com
-localhost services.gfe.nvidia.com
-localhost gfwsl.geforce.com
-localhost gfe.nvidia.com
+0.0.0.0 ls.dtrace.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 gfe.nvidia.com

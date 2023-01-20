@@ -1,4 +1,4 @@
-localhost vortex.data.microsoft.com
-localhost settings-win.data.microsoft.com
-localhost dc.services.visualstudio.com
-localhost dmd.metaservices.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 dmd.metaservices.microsoft.com
